@@ -1,6 +1,6 @@
 ## Hello Everyone! I'm Oei Christopher Bryant Widyanata 👋
 
-![alt text](./img/github-header-image.png)
+![alt text](./img/github-header-image%20(2).png)
 
 #### Now I'm a student in BINUS University, and majoring Computer Science. 🎓
 
