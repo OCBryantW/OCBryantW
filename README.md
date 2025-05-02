@@ -6,7 +6,9 @@
 
 ### Now I'm a student in BINUS University, and majoring Computer Science. 🎓
 
-#### What I learn when I was a student:
+#### + Skills I learned when I was a student:
+
+[![My Skills](https://skillicons.dev/icons?i=html,c,js,figma,unity&theme=light)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
@@ -34,3 +36,22 @@ Here are some ideas to get you started:
 -->
 - 🔭 **I’m currently working **My Portfolio Website**, click here to view my website (Not Already Yet)**
 - 🌱 **I’m currently learning React JS and Tailwind CSS**
+
+#### My Github Stats
+![Bryant's GitHub stats](https://github-readme-stats.vercel.app/api?username=OCBryantW&show_icons=true&theme=noctis_minimus)
+
+###
+
+#### Play Game with Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCBryantW/OCBryantW/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OCBryantW/OCBryantW/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OCBryantW/OCBryantW/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/OCBryantW/OCBryantW/output/snake.svg" alt="Snake animation" />
+
+###
