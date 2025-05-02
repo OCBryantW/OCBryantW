@@ -2,7 +2,7 @@
 
 <!-- ![alt text](<github-header-image (4).png>) -->
 
-<img src="./img/Oei, Christopher Bryant Widayanta.png" alt="My Banner" style="border-radius: 8px">
+<img src="./img/Oei, Christopher Bryant Widayanta (1).png" alt="My Banner" style="border-radius: 8px">
 
 #### Now I'm a student in BINUS University, and majoring Computer Science. 🎓
 
