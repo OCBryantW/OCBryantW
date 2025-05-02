@@ -1,8 +1,12 @@
 ## Hello Everyone! I'm Oei Christopher Bryant Widyanata 👋
 
-![OCBW](./img/github-header-image%20(2).png)
+<!-- ![alt text](<github-header-image (4).png>) -->
+
+<img src="./img/Oei, Christopher Bryant Widayanta.png" alt="My Banner" style="border-radius: 8px">
 
 #### Now I'm a student in BINUS University, and majoring Computer Science. 🎓
+
+<img src="{BadgeURLHere}" />
 
 ![My Photo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN6bGcycHV2OGh5eWVpdzM1eHZjZmZ3Y2F3ajRubG1wMjVlcmNkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif)
 
