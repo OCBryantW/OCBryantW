@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-#### Play Game with Me test
+#### Play Game with Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCBryantW/OCBryantW/output/pacman-contribution-graph-dark.svg">
