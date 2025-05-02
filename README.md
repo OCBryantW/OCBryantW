@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 **I’m currently working **My Portfolio Website**, click here to view my website [My Website](https://github.com/OCBryantW)**
+- 🔭 **I’m currently working **My Portfolio Website**, click here to view my website (Not Already Yet)**
 - 🌱 **I’m currently learning React JS and Tailwind CSS**
